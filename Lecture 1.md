@@ -6,8 +6,8 @@ is going to have an easy time in this course,but we don't want such a student ac
 we don't want you to feel inadequate when you're simply inexperienced.
 2. Skills:use the basic tools of computational thinking(使用计算思维的基本工具)；
           write and read code;
-          understand abilities & limits
-          map problems into computation（将科学的问题转入计算机框架）
+          understand abilities & limits；
+          map problems into computation（将科学的问题转入计算机框架）
 3. 学习方法：you use thoses notes to take your own annotations to(你用那些笔记做自己的注释）help you understand what's going on.
 # 三.talk about computation（计算机）
 1. think like a computer scientist
